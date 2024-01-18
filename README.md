@@ -7,6 +7,7 @@ Pirms palaišanas pārliecinieties, ka jums ir instalētas nepieciešamās bibli
 
 ## Lietošana
 1. Palaidiet skriptu, izpildot šo komandu:
+    python pdf_to_word_converter.py
 2. Noklikšķiniet uz pogas "Izvēlēties PDF failu", lai izvēlētos PDF failu, ko vēlaties konvertēt.
 3. Izvēlētā faila ceļš tiks parādīts ievades laukā.
 4. Noklikšķiniet uz pogas "Konvertēt", lai uzsāktu konvertēšanas procesu.
